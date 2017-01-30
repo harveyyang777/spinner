@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="cinemas">
+        <item>台北</item>
+        <item>板桥</item>
+        <item>台南</item>
+        <item>高雄</item>
+    </string-array>
+</resources>
